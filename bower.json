@@ -1,0 +1,12 @@
+{
+    "name": "pinyin",
+    "description": "将汉字转换成拼音。",
+    "main": [
+        "pinyin.js"
+    ],
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:chenhjcs/pinyin.git"
+    }
+}
